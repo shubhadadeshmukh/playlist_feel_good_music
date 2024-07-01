@@ -1,0 +1,21 @@
+
+body{
+    /* background-color:burlywood; */
+    background-image: url(./bgimage.avif);
+  
+}
+.card-img-top{
+    height: 250px;
+}
+
+.card{
+    background-color: rgb(42, 41, 41);
+    border: 5px solid white;
+    color: white;
+}
+audio{
+   width: 250px;
+}
+hr{
+    color: white;
+}
